@@ -1,0 +1,5 @@
+c:\users\carmela\documents\visual studio 2015\Projects\ATP2016Project\ATP2016Project\bin\Release\ATP2016Project.exe.config
+c:\users\carmela\documents\visual studio 2015\Projects\ATP2016Project\ATP2016Project\bin\Release\ATP2016Project.exe
+c:\users\carmela\documents\visual studio 2015\Projects\ATP2016Project\ATP2016Project\bin\Release\ATP2016Project.pdb
+c:\users\carmela\documents\visual studio 2015\Projects\ATP2016Project\ATP2016Project\obj\Release\ATP2016Project.exe
+c:\users\carmela\documents\visual studio 2015\Projects\ATP2016Project\ATP2016Project\obj\Release\ATP2016Project.pdb
